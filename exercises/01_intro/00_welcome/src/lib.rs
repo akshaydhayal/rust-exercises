@@ -11,7 +11,7 @@
 // where you need to write code..
 // You'll need to replace these markers with your own code to complete the exercise.
 // Sometimes it'll be enough to write a single line of code, other times you'll have to write
-// longer sections.
+// longer sections..
 //
 // If you get stuck for more than 10 minutes on an exercise, grab a trainer! We're here to help!
 // You can also find solutions to all exercises in the `solutions` git branch.
