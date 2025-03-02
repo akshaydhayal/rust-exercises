@@ -8,7 +8,7 @@
 // Everything from `//` to the end of the line is considered a comment.
 
 // Exercises will include `TODO`, `todo!()` or `__` markers to draw your attention to the lines
-// where you need to write code.
+// where you need to write code..
 // You'll need to replace these markers with your own code to complete the exercise.
 // Sometimes it'll be enough to write a single line of code, other times you'll have to write
 // longer sections.
